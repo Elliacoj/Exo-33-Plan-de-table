@@ -1,0 +1,356 @@
+#tablejerome {
+    height: 250px;
+    width: 50px;
+    border: 1px solid black;
+    bottom: 280px;
+    left: 200px;
+    position: absolute;
+}
+
+#tablesamuel {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 450px;
+    top: 20px;
+    position: absolute;
+}
+
+#tabledamien {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 700px;
+    top: 20px;
+    position: absolute;
+}
+#tablegaetan {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 950px;
+    top: 20px;
+    position: absolute;
+}
+
+#tableyann {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 1200px;
+    top: 20px;
+    position: absolute;
+}
+
+#tableelodie {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 200px;
+    bottom: 20px;
+    position: absolute;
+}
+
+#tablelaurie {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 450px;
+    bottom: 20px;
+    position: absolute;
+}
+
+#tablechloe {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 700px;
+    bottom: 20px;
+    position: absolute;
+}
+#tableamaury {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 950px;
+    bottom: 20px;
+    position: absolute;
+}
+
+#tablemickael {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 1200px;
+    bottom: 20px;
+    position: absolute;
+}
+
+#tablematthias {
+    height: 200px;
+    width: 70px;
+    border: 1px solid black;
+    top: 85px;
+    right: 50px;
+    position: absolute;
+}
+
+#tablepy {
+    height: 200px;
+    width: 70px;
+    border: 1px solid black;
+    top: 285px;
+    right: 50px;
+    position: absolute;
+}
+
+#tablefred {
+    height: 200px;
+    width: 70px;
+    border: 1px solid black;
+    top: 485px;
+    right: 50px;
+    position: absolute;
+}
+
+#tablesylvie {
+    height: 200px;
+    width: 70px;
+    border: 1px solid black;
+    top: 200px;
+    right: 400px;
+    position: absolute;
+}
+
+#tablejustine {
+    height: 200px;
+    width: 70px;
+    border: 1px solid black;
+    top: 400px;
+    right: 400px;
+    position: absolute;
+}
+
+#tableclement {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 725px;
+    top: 200px;
+    position: absolute;
+}
+
+#tablejeff {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 975px;
+    top: 200px;
+    position: absolute;
+}
+
+#tablemedhi {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 725px;
+    top: 550px;
+    position: absolute;
+}
+
+#tablemikael {
+    height: 50px;
+    width: 250px;
+    border: 1px solid black;
+    left: 975px;
+    top: 550px;
+    position: absolute;
+}
+
+#jerome {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    bottom: 350px;
+    left: 130px;
+    position: absolute;
+    text-align: center;
+}
+
+#samuel {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 540px;
+    top: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#damien {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 800px;
+    top: 80px;
+    position: absolute;
+    text-align: center;
+}
+#gaetan {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1040px;
+    top: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#yann {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1300px;
+    top: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#elodie {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 300px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#laurie {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 550px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+ }
+
+#chloe {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 750px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+}
+#amaury {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1000px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#mickael {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1300px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+}
+
+#matthias {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    top: 150px;
+    right: 130px;
+    position: absolute;
+    text-align: center;
+}
+
+#py {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    top: 350px;
+    right: 130px;
+    position: absolute;
+    text-align: center;
+}
+
+#fred {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    top: 550px;
+    right: 130px;
+    position: absolute;
+    text-align: center;
+}
+
+#sylvie {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    top: 280px;
+    right: 330px;
+    position: absolute;
+    text-align: center;
+}
+
+#justine {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    top: 470px;
+    right: 330px;
+    position: absolute;
+    text-align: center;
+}
+
+#clement {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 820px;
+    top: 260px;
+    position: absolute;
+    text-align: center;
+}
+
+#jeff {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1070px;
+    top: 260px;
+    position: absolute;
+    text-align: center;
+}
+
+#medhi {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 820px;
+    top: 610px;
+    position: absolute;
+    text-align: center;
+}
+
+#mikael {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    left: 1070px;
+    top: 610px;
+    position: absolute;
+    text-align: center;
+}
